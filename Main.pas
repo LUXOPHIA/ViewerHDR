@@ -74,7 +74,7 @@ begin
 
      ShowData;
 
-     _HDRI.Grid.CopyTo( Image1.Bitmap );
+     _HDRI.Grid.CopyTo( Image1.Bitmap, 2.2, 10 );
 end;
 
 end. //######################################################################### ■
