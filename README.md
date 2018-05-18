@@ -2,6 +2,8 @@
 
 [HDRI：High Dynamic Range Image](https://ja.wikipedia.org/wiki/ハイダイナミックレンジイメージ) を保存可能な [Radiance形式(*.hdr)](https://en.wikipedia.org/wiki/Radiance_(software)#HDR_image_format) のファイルを扱う方法。
 
+![](https://github.com/LUXOPHIA/ViewerHDR/raw/master/--------/_SCREENSHOT/ViewerHDR.png)
+
 ----
 
 * [Home of Radiance](http://radsite.lbl.gov)
